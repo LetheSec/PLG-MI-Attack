@@ -16,7 +16,7 @@ conda activate PLG_MI
 # install pytorch 
 conda install pytorch==1.10.0 torchvision==0.10.0 cudatoolkit=11.3 -c pytorch -c conda-forge
 # install other dependencies
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
 
 # Preparation
