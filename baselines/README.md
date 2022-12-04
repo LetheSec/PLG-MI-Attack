@@ -27,7 +27,7 @@ python recovery.py \
 To train the GAN of KED-MI, please run the `KED-MI.py` as follows:
 
 ```bash
-python KED_MI_baseline.py --model_name_T=VGG16 --dataset_name=ffhq --save_dir=KED_MI_Baseline
+python KED_MI.py --model_name_T=VGG16 --dataset_name=ffhq --save_dir=KED_MI_Baseline
 ```
 
 To reconstruct the private images of using the trained generator, pealse run the `recovery.py` as follows:
