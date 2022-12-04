@@ -90,7 +90,7 @@ python reconstruct.py \
 --model=VGG16 \
 --inv_loss_type=margin \
 --lr=0.1 \
---iter_tims=600 \
+--iter_times=600 \
 --path_G=./PLG_MI_Results/ffhq/VGG16/gen_latest.pth.tar \
 --save_dir=PLG_MI_Inversion
 ```
