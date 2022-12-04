@@ -160,15 +160,6 @@ def inversion(args, G, T, E, iden, itr, lr=2e-2, iter_times=1500, num_seeds=5):
     return acc, acc_5, acc_var, acc_var5
 
 
-"""
-python reconstruct.py \
---model VGG16 \
---inv_loss_type margin \
---lr 0.1 \
---iter_times 600 \
---save_dir PLG_MI_Inversion \
---path_G results/ffhq/VGG16_top30_alpha0.2_iter30000/cGAN/221202_1045/gen_latest.pth.tar
-"""
 if __name__ == "__main__":
     global args, logger
 
