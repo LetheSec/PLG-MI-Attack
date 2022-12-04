@@ -26,7 +26,6 @@ import utils
 # os.makedirs(mnist_path, exist_ok=True)
 # os.makedirs(mnist_img_path, exist_ok=True)
 
-############ my code
 class ImageFolder(data.Dataset):
     def __init__(self, args, file_path, mode, name_list, label_list, image_list):
         self.args = args
