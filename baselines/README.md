@@ -24,7 +24,7 @@ python recovery.py \
 
 ## [KED-MI](https://arxiv.org/abs/2010.04092)
 
-To train the GAN of KED-MI, please run the `KED-MI.py` as follows:
+To train the GAN of KED-MI, please run the `KED_MI.py` as follows:
 
 ```bash
 python KED_MI.py --model_name_T=VGG16 --dataset_name=ffhq --save_dir=KED_MI_Baseline
