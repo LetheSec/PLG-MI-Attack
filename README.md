@@ -1,7 +1,8 @@
 # Pseudo Label-Guided Model Inversion Attack via Conditional Generative Adversarial Network
 
-Code for the paper **Pseudo Label-Guided Model Inversion Attack via Conditional Generative Adversarial Network (AAAI
-2023)**.
+Code for the paper **<a href="https://arxiv.org/abs/2302.09814">Pseudo Label-Guided Model Inversion Attack via Conditional Generative Adversarial Network</a> (AAAI
+2023)**. 
+
 
 ![framework](imgs/framework.jpg)
 
