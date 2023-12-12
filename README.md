@@ -106,10 +106,10 @@ python reconstruct.py \
 If you find this repository useful for your work, please consider citing it as follows:
 
 ```bibtex
-@inproceedings{yuan2023pseudo,
+@article{yuan2023pseudo,
   title={Pseudo Label-Guided Model Inversion Attack via Conditional Generative Adversarial Network},
   author={Yuan, Xiaojian and Chen, Kejiang and Zhang, Jie and Zhang, Weiming and Yu, Nenghai and Zhang, Yang},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
   volume={37},
   number={3},
   pages={3349-3357},
