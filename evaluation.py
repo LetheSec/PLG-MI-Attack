@@ -176,7 +176,7 @@ def evaluate(args, current_iter, gen, device, inception_model=None, eval_iter=No
     num_batches = args.n_eval_batches
     gen.eval()
     fake_list, real_list = [], []
-    conditional = args.cGAN
+    conditional = True # args.cGAN
     for i in range(0, num_batches):
         if conditional:
             class_id = i % args.num_classes
