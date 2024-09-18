@@ -81,6 +81,8 @@ python train_cgan.py \
 
 The checkpoints can be found at: https://drive.google.com/drive/folders/1qDvl7i6_U7xoaduUbeEzTSuYXWpxvvXt?usp=sharing
 
+(All checkpoints of PLG-MI can be found at: https://drive.google.com/drive/folders/1AVdJ0ZrrW9iutCh-zrCKVkLuzD6OZGB6?usp=sharing)
+
 # Image Reconstruction
 
 To reconstruct the private images of specified class using the trained generator, pealse run the `reconstruct.py` as
