@@ -103,7 +103,7 @@ python reconstruct.py \
 ![examples](imgs/examples.jpg)
 
 
-# Citing
+# Citation
 
 If you find this repository useful for your work, please consider citing it as follows:
 
